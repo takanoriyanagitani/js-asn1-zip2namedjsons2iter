@@ -1,0 +1,16 @@
+{
+  "name": "js-asn1-zip2namedjsons2iter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "asn1js": "^3.0.6",
+    "fflate": "^0.8.2"
+  }
+}
