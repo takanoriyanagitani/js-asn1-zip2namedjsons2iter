@@ -1,0 +1,11 @@
+ZipEntry DEFINITIONS ::= BEGIN
+
+	GzippedNames ::= OCTET STRING
+	GzippedJsonl ::= OCTET STRING
+
+	SimpleZipItems ::= SEQUENCE {
+		names GzippedNames,
+		jsonl GzippedJsonl
+	}
+
+END
