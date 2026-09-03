@@ -11,6 +11,6 @@
   "license": "Apache-2.0",
   "dependencies": {
     "asn1js": "^3.0.6",
-    "fflate": "^0.8.2"
+    "fflate": "^0.8.3"
   }
 }
